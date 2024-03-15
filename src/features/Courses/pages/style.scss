@@ -1,0 +1,25 @@
+.pageContainer {
+  display: flex;
+  padding: 24px;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 24px;
+}
+
+.tagsContainer {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #cfcfe4;
+  padding: 12px;
+  border-radius: 18px;
+  display: flex;
+  flex-direction: column;
+}
+
+.coursesContainer {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 18px;
+}

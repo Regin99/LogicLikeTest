@@ -1,0 +1,15 @@
+.tag {
+  padding: 12px;
+  margin: 0;
+  font-size: 18px;
+  font-weight: 800;
+  color: #39414b;
+  border-radius: 12px;
+}
+.tag:hover {
+  cursor: pointer;
+}
+.active {
+  background-color: #5fbf77;
+  color: #ffffff;
+}
